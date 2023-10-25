@@ -1,0 +1,12 @@
+.title{
+    text-align: center;
+    color:bold;
+    font-size: large;
+
+}
+
+.center{
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+}
